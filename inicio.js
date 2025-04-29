@@ -1,2 +1,2 @@
-import {Nombre, Apellido, Edad } from "./js/script.js";
+import {nombre, edad} from './js/script.js';
 
